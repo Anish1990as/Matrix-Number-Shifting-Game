@@ -268,7 +268,7 @@ int main()
          printf("\n\a          YOU LOSE !          \a\a\n");
          else
          {
-              printf("\n\a************ Congratualization ************\n\a");
+              printf("\n\a!!!!!!!!!!!! Congratualization !!!!!!!!!!!!\n\a");
            printf("\a               You have Won      \a\a\a ");
          }
          char check;
