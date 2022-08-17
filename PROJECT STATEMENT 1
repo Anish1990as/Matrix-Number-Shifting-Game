@@ -1,6 +1,6 @@
 #include<stdio.h>
 #include<conio.h>
-//#include<stdlib.h>
+#include<stdlib.h>
 #include<time.h>
 #include<string.h>
 int createMatrix(int arr[][4])
